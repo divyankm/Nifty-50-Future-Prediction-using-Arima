@@ -1,4 +1,4 @@
-# Nifty-50-Future-Prediction-using-Arima
+# Nifty-50-Future-Prediction-using-Arima and Monte Carlo Algorithm
 
 Introdcution to Data Set
 The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.[1] It is one of the two main stock indices used in India, the other being the BSE SENSEX.[2]
