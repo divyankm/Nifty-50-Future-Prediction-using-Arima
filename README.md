@@ -7,3 +7,10 @@ Nifty 50 is owned and managed by NSE Indices (previously known as India Index Se
 Data Set 'Nifty_monthly_OHLC.xlsx' is extracted from https://in.investing.com/indices/s-p-cnx-nifty-historical-data?end_date=1616783400&interval_sec=monthly&st_date=1041359400&interval_sec=daily
 In this data set we have Date,Price of NIFTY50 INDEX on mothly basis from year 2013 to March 2021, We are forcasting the Price of Nifty 50 Index of next 10 years from Today using Arima
 Code is reviewed from https://www.kaggle.com/freespirit08/time-series-for-beginners-with-arima
+
+
+IMP link of MC Algo-
+
+https://medium.com/analytics-vidhya/monte-carlo-simulations-for-predicting-stock-prices-python-a64f53585662
+https://github.com/eliasmelul/finance_portfolio
+https://datascienceplus.com/how-to-apply-monte-carlo-simulation-to-forecast-stock-prices-using-python/
